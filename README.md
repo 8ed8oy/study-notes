@@ -44,7 +44,7 @@
 |---|---|
 | [linux 终端命令](linux/linux终端命令.md) · [分区与安装](linux/系统分区与安装.md) · [触控板](linux/触控板解决方案.md) · [软件清单](linux/推荐补充安装的专业软件.md) | 装机与日常排障攒下来的 |
 | [K8s 4 小时任务卡](k8s/K8s-4h任务卡.md) | 还没开工 |
-| [Go 并发笔记](go并发笔记.md) · [LeetCode](LeetCode.md) · [CS61A](CS61A.md) · [zju 命令速查](zju命令速查.md) · [Markdown 示例](Markdown.md) · [代码风格（cs61b）](代码风格与要求\(cs61b\).md) | 零散备忘 |
+| [Go 并发笔记](go并发笔记.md) · [LeetCode](LeetCode.md) · [CS61A](CS61A.md) · [zju 命令速查](zju命令速查.md) · [Markdown 示例](Markdown.md) · [代码风格（cs61b）](代码风格与要求-cs61b.md) | 零散备忘 |
 
 ## 为什么把它们放一起
 
